@@ -2,7 +2,7 @@ import React from "react";
 
 function Navbar() {
     return (
-        <nav className="navbar navbar-expand navbar-dark bg-dark fixed-top">
+        <nav className="navbar navbar-expand navbar-dark bg-dark fixed-top p-2">
         <div className="navbar-brand">Alex C. Marriott</div>
         <div className="" id="navbarNav">
             <ul className="navbar-nav">
