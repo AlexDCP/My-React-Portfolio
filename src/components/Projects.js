@@ -11,6 +11,7 @@ const projPad = {
 function Projects() {
     return (
         <div style={navPad}>
+            <h1 className="text-center">My Projects</h1>
             <div className="row justify-content-md-center align-items-center">
                 <div className="col-md-4 mr-auto p-2" >
                     <img src="./images/food-search-screenshot.JPG" className="img-thumbnail rounded float-start" alt="food-search"></img>
