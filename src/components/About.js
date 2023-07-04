@@ -4,9 +4,10 @@ const navPad = {
     paddingTop: 150,
 }
 
+
 function About() {
     return (
-        <div className="container vh-100" style={navPad}>
+        <div className="container" style={navPad}>
         <h1 className="text-center fw-bolder">About Me:</h1>
         <figure className="col-lg-6 offset-lg-3 d-flex align-items-center">
             <img src="./images/portrait.jpg" className="img-thumbnail rounded" alt="portrait"></img>

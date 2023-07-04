@@ -6,6 +6,7 @@ import About from './components/About';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Skills from './components/Skills';
+import Footer from './components/Footer';
 import 'bootstrap/dist/css/bootstrap.css';
 
 function App() {
@@ -33,6 +34,7 @@ function App() {
       <Navbar handlePageChange={handlePageChange} />
       {/* Here we are calling the renderPage method which will return a component  */}
       {renderPage()}
+      <Footer />
     </div>
   );
 }
