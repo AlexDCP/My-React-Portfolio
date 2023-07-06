@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/My-React-Portfolio/static/css/main.5dab0984.css",
+    "main.js": "/My-React-Portfolio/static/js/main.2afc74c6.js",
+    "static/js/787.525b6b24.chunk.js": "/My-React-Portfolio/static/js/787.525b6b24.chunk.js",
+    "static/media/forestBG.jpg": "/My-React-Portfolio/static/media/forestBG.11769c807b687bb7be22.jpg",
+    "index.html": "/My-React-Portfolio/index.html",
+    "main.5dab0984.css.map": "/My-React-Portfolio/static/css/main.5dab0984.css.map",
+    "main.2afc74c6.js.map": "/My-React-Portfolio/static/js/main.2afc74c6.js.map",
+    "787.525b6b24.chunk.js.map": "/My-React-Portfolio/static/js/787.525b6b24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dab0984.css",
+    "static/js/main.2afc74c6.js"
+  ]
+}
