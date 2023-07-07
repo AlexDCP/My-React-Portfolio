@@ -89,9 +89,9 @@ function Contact() {
             >
             </textarea>
         </div>
-        <button onClick={handleFormSubmit} type="button" className="btn btn-success">
+        <Button onClick={handleFormSubmit} type="button" className="btn btn-success">
             Submit
-        </button>
+        </Button>
       </form>
         {errorMessage && (
         <div>

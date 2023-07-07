@@ -38,18 +38,14 @@ If you have any questions or would like to connect, please feel free to reach ou
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To view the portfolio click here: <https://alexdcp.github.io/My-React-Portfolio/>
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Screenshot](public\images\RPscrnshot.JPG)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+-Juno Nguyen: Tutor.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+-StackOverflow: too many good articles to link
 
-If you followed tutorials, include links to those here as well.
+-Preston Chandler: Classmate, helped me understand components a bit better.
